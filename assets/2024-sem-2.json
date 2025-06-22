@@ -1,0 +1,383 @@
+{
+    "data": [
+        {
+            "uuid": "30837d44-7b31-11e6-a769-005056960017",
+            "title": "Иностранный язык",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-3rd Edition ML Pre-Int(1).pdf",
+                    "fileName": "01-04-2020-3rd Edition ML Pre-Int(1).pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Oxford_English_for_Infomation_Technology.pdf",
+                    "fileName": "01-04-2020-Oxford_English_for_Infomation_Technology.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Дедушенко+И.С.Обучение+чтению+и+устной+речи+на+английском+языке.pdf",
+                    "fileName": "01-04-2020-Дедушенко+И.С.Обучение+чтению+и+устной+речи+на+английском+языке.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Орловская И.В., Самсонова Л.С. Учебник английского языка для технических университетов и вузов (6-е издание, 2006)(1).pdf",
+                    "fileName": "01-04-2020-Орловская И.В., Самсонова Л.С. Учебник английского языка для технических университетов и вузов (6-е издание, 2006)(1).pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Румянцева Шишкина ИУ 4 ч.2(2).docx",
+                    "fileName": "01-04-2020-Румянцева Шишкина ИУ 4 ч.2(2).docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 5.docx",
+                    "fileName": "02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 5.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 6.docx",
+                    "fileName": "02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 6.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/09-01-2025-График_дежурств_преподавателей_ИБМ_на_январь_февраль_2025.docx",
+                    "fileName": "09-01-2025-График_дежурств_преподавателей_ИБМ_на_январь_февраль_2025.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/18-11-2020-Module8_WINGS_Lesson2__1_.rtf",
+                    "fileName": "18-11-2020-Module8_WINGS_Lesson2__1_.rtf",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/18-11-2020-Module8_WINGS_Lesson3.rtf",
+                    "fileName": "18-11-2020-Module8_WINGS_Lesson3.rtf",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/22-01-2025-Расписание_приема_задолженностей.jpg",
+                    "fileName": "22-01-2025-Расписание_приема_задолженностей.jpg",
+                    "mimeType": "image/jpeg"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Dos_and_Dont_s_when_writing_an_essay___ярлык.lnk",
+                    "fileName": "23-11-2020-Dos_and_Dont_s_when_writing_an_essay___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Sample_and_what_makes_a_paragraph___ярлык.lnk",
+                    "fileName": "23-11-2020-Sample_and_what_makes_a_paragraph___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Structuring_an_Essay.docx",
+                    "fileName": "23-11-2020-Structuring_an_Essay.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Useful_Language_for_Writing_an_Essay___ярлык.lnk",
+                    "fileName": "23-11-2020-Useful_Language_for_Writing_an_Essay___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/29-04-2020-ИБМ3курс___Темы_для_эссе_презентации.pdf",
+                    "fileName": "29-04-2020-ИБМ3курс___Темы_для_эссе_презентации.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/30837d44-7b31-11e6-a769-005056960017",
+                    "fileName": "30837d44-7b31-11e6-a769-005056960017",
+                    "mimeType": null
+                }
+            ]
+        },
+        {
+            "uuid": "959bf8ca-7b39-11e6-8b81-005056960017",
+            "title": "Интегралы и дифференциальные уравнения",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/13-06-2022-Расписание_приема_задолженностей_14июня_2_июля_2022.pdf",
+                    "fileName": "13-06-2022-Расписание_приема_задолженностей_14июня_2_июля_2022.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ДЗ 1 билеты 2020.pdf",
+                    "fileName": "24-03-2020-ДЗ 1 билеты 2020.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ДЗ 2 билеты 2020.pdf",
+                    "fileName": "24-03-2020-ДЗ 2 билеты 2020.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_01.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_01.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_02.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_02.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_03.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_03.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_04.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_04.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_05_06.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_05_06.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_07.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_07.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_08.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_08.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_09_10.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_09_10.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_11.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_11.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-ИиДУ_лекция_12_13.pdf",
+                    "fileName": "24-03-2020-ИиДУ_лекция_12_13.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-КалПлан ИиДУ, 2с, ИУ-РЛ-БМТ.pdf",
+                    "fileName": "24-03-2020-КалПлан ИиДУ, 2с, ИУ-РЛ-БМТ.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-КР 1 подготовка 2020.pdf",
+                    "fileName": "24-03-2020-КР 1 подготовка 2020.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-КР 2 подготовка 2020.pdf",
+                    "fileName": "24-03-2020-КР 2 подготовка 2020.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-РК 1 подготовка 2020.pdf",
+                    "fileName": "24-03-2020-РК 1 подготовка 2020.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/959bf8ca-7b39-11e6-8b81-005056960017/24-03-2020-РК 2 подготовка 2020.pdf",
+                    "fileName": "24-03-2020-РК 2 подготовка 2020.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        },
+        {
+            "uuid": "08cc9901-958a-11ed-9ac0-b553e58c6c72",
+            "title": "История России",
+            "materials": []
+        },
+        {
+            "uuid": "38d642a2-7b3a-11e6-a819-005056960017",
+            "title": "Линейная алгебра и функции нескольких переменных",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/13-06-2022-ФН12_Расписание_приема_задолженностей__весна_2021_22.pdf",
+                    "fileName": "13-06-2022-ФН12_Расписание_приема_задолженностей__весна_2021_22.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-Занятие 5 ЛА.pdf",
+                    "fileName": "24-03-2020-Занятие 5 ЛА.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-КП_Линейная алгебра и ФНП.pdf",
+                    "fileName": "24-03-2020-КП_Линейная алгебра и ФНП.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_ДЗ1_задача1.pdf",
+                    "fileName": "24-03-2020-ЛА_ДЗ1_задача1.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_ДЗ1_задача2.pdf",
+                    "fileName": "24-03-2020-ЛА_ДЗ1_задача2.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_ДЗ1_задача3.pdf",
+                    "fileName": "24-03-2020-ЛА_ДЗ1_задача3.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_01.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_01.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_02.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_02.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_03.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_03.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_04.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_04.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_05.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_05.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_06.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_06.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_лекция_07.pdf",
+                    "fileName": "24-03-2020-ЛА_лекция_07.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/38d642a2-7b3a-11e6-a819-005056960017/24-03-2020-ЛА_РК1_подготовка.pdf",
+                    "fileName": "24-03-2020-ЛА_РК1_подготовка.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        },
+        {
+            "uuid": "2b8ebffe-bd19-11e6-bf83-005056960017",
+            "title": "Основы программной инженерии",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/2b8ebffe-bd19-11e6-bf83-005056960017/25-03-2020-25-03-2020_Основы программной инженерии.txt",
+                    "fileName": "25-03-2020-25-03-2020_Основы программной инженерии.txt",
+                    "mimeType": "text/plain"
+                }
+            ]
+        },
+        {
+            "uuid": "21c210a2-bd19-11e6-9124-005056960017",
+            "title": "Программирование",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/01-01-2025-Вопросы_к_экзамену.pdf",
+                    "fileName": "01-01-2025-Вопросы_к_экзамену.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/01-03-2025-Лабораторная_работа___2__python_.pdf",
+                    "fileName": "01-03-2025-Лабораторная_работа___2__python_.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/07-02-2025-Лабораторная_работа_1__python_.pdf",
+                    "fileName": "07-02-2025-Лабораторная_работа_1__python_.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/11-02-2025-График_приёма_задолженностей_у_студентов_1_курса_кафедры_ИУ7_11_02.pdf",
+                    "fileName": "11-02-2025-График_приёма_задолженностей_у_студентов_1_курса_кафедры_ИУ7_11_02.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/11-05-2025-Лабораторная_работа__5_python.pdf",
+                    "fileName": "11-05-2025-Лабораторная_работа__5_python.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/18-02-2025-График_проведения_комиссий_у_студентов_1_курса_кафедры_ИУ7.pdf",
+                    "fileName": "18-02-2025-График_проведения_комиссий_у_студентов_1_курса_кафедры_ИУ7.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/19-04-2025-Лабораторная_работа__4__python_.pdf",
+                    "fileName": "19-04-2025-Лабораторная_работа__4__python_.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/21-09-2024-Преподаватели_курса.pdf",
+                    "fileName": "21-09-2024-Преподаватели_курса.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/27-01-2025-График_приёма_задолженностей_у_студентов_1_курса_кафедры_ИУ7.pdf",
+                    "fileName": "27-01-2025-График_приёма_задолженностей_у_студентов_1_курса_кафедры_ИУ7.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/21c210a2-bd19-11e6-9124-005056960017/30-03-2025-Лабораторная_работа___3__python_.pdf",
+                    "fileName": "30-03-2025-Лабораторная_работа___3__python_.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        },
+        {
+            "uuid": "b6056216-8114-11e9-ac48-005056960017",
+            "title": "Проектно-технологическая практика",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/b6056216-8114-11e9-ac48-005056960017/07-04-2020-practice.txt",
+                    "fileName": "07-04-2020-practice.txt",
+                    "mimeType": "text/plain"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/b6056216-8114-11e9-ac48-005056960017/09-11-2021-practice.txt",
+                    "fileName": "09-11-2021-practice.txt",
+                    "mimeType": "text/plain"
+                }
+            ]
+        },
+        {
+            "uuid": "020be350-893e-11e6-bda6-005056960017",
+            "title": "Физика",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/020be350-893e-11e6-bda6-005056960017/03-03-2022-ИУ7_25Б_б___ауд.17.docx",
+                    "fileName": "03-03-2022-ИУ7_25Б_б___ауд.17.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        },
+        {
+            "uuid": "5e82060e-fac3-11eb-941c-005056960017",
+            "title": "Элективный курс по физической культуре и спорту",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/5e82060e-fac3-11eb-941c-005056960017/27-05-2025-Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "fileName": "27-05-2025-Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/5e82060e-fac3-11eb-941c-005056960017/27-05-2025-Прием_нормативов_в_ВУЦ___Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "fileName": "27-05-2025-Прием_нормативов_в_ВУЦ___Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "date": "2025-06-22T13:41:43.126+03:00"
+}

@@ -1,0 +1,5 @@
+Материалы выложены в moodle в курсе
+http://e-learning.bmstu.ru/portal_iu7/course/view.php?id=73
+
+Для проведения практики используется (в том числе)
+https://git.iu7.bmstu.ru/

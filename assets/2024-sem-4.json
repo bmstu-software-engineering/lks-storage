@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "uuid": "75f9b612-bd18-11e6-998c-005056960017",
+            "title": "Архитектура ЭВМ",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/75f9b612-bd18-11e6-998c-005056960017/27-01-2021-Расписание_приема_задолженностей.docx",
+                    "fileName": "27-01-2021-Расписание_приема_задолженностей.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        },
+        {
+            "uuid": "dd8b3ab6-bd19-11e6-ac62-005056960017",
+            "title": "Вычислительные алгоритмы",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/02-03-2025-Задание_на_лаб_работы__2.pdf",
+                    "fileName": "02-03-2025-Задание_на_лаб_работы__2.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/02-03-2025-Задание_на_лаб_работы__3.pdf",
+                    "fileName": "02-03-2025-Задание_на_лаб_работы__3.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/02-03-2025-Задание_на_лаб_работы__4.pdf",
+                    "fileName": "02-03-2025-Задание_на_лаб_работы__4.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/02-03-2025-Исход_данные__Лаб_работы__2.txt",
+                    "fileName": "02-03-2025-Исход_данные__Лаб_работы__2.txt",
+                    "mimeType": "text/plain"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/04-05-2025-Задание_на_лаб_работы__6.pdf",
+                    "fileName": "04-05-2025-Задание_на_лаб_работы__6.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/04-05-2025-подинтеграл_функция_лаб__5.txt",
+                    "fileName": "04-05-2025-подинтеграл_функция_лаб__5.txt",
+                    "mimeType": "text/plain"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/05-05-2025-Задание_на_лаб_работы_5.pdf",
+                    "fileName": "05-05-2025-Задание_на_лаб_работы_5.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/13-02-2025-Задание_на_лаб_работы__1.pdf",
+                    "fileName": "13-02-2025-Задание_на_лаб_работы__1.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/13-02-2025-Исх_данные_лаб__1.txt",
+                    "fileName": "13-02-2025-Исх_данные_лаб__1.txt",
+                    "mimeType": "text/plain"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/16-02-2025-Литература.docx",
+                    "fileName": "16-02-2025-Литература.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/dd8b3ab6-bd19-11e6-ac62-005056960017/16-02-2025-Пример_на_полин_Ньютона.docx",
+                    "fileName": "16-02-2025-Пример_на_полин_Ньютона.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        },
+        {
+            "uuid": "b47709a7-639d-11ef-b7df-3d7e40b60fc8",
+            "title": "Дискретная математика",
+            "materials": []
+        },
+        {
+            "uuid": "30837d44-7b31-11e6-a769-005056960017",
+            "title": "Иностранный язык",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-3rd Edition ML Pre-Int(1).pdf",
+                    "fileName": "01-04-2020-3rd Edition ML Pre-Int(1).pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Oxford_English_for_Infomation_Technology.pdf",
+                    "fileName": "01-04-2020-Oxford_English_for_Infomation_Technology.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Дедушенко+И.С.Обучение+чтению+и+устной+речи+на+английском+языке.pdf",
+                    "fileName": "01-04-2020-Дедушенко+И.С.Обучение+чтению+и+устной+речи+на+английском+языке.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Орловская И.В., Самсонова Л.С. Учебник английского языка для технических университетов и вузов (6-е издание, 2006)(1).pdf",
+                    "fileName": "01-04-2020-Орловская И.В., Самсонова Л.С. Учебник английского языка для технических университетов и вузов (6-е издание, 2006)(1).pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/01-04-2020-Румянцева Шишкина ИУ 4 ч.2(2).docx",
+                    "fileName": "01-04-2020-Румянцева Шишкина ИУ 4 ч.2(2).docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 5.docx",
+                    "fileName": "02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 5.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 6.docx",
+                    "fileName": "02-04-2020-ФН4-22 - Кальгин - Учебник для технических вузов - LESSON 6.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/09-01-2025-График_дежурств_преподавателей_ИБМ_на_январь_февраль_2025.docx",
+                    "fileName": "09-01-2025-График_дежурств_преподавателей_ИБМ_на_январь_февраль_2025.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/18-11-2020-Module8_WINGS_Lesson2__1_.rtf",
+                    "fileName": "18-11-2020-Module8_WINGS_Lesson2__1_.rtf",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/18-11-2020-Module8_WINGS_Lesson3.rtf",
+                    "fileName": "18-11-2020-Module8_WINGS_Lesson3.rtf",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/22-01-2025-Расписание_приема_задолженностей.jpg",
+                    "fileName": "22-01-2025-Расписание_приема_задолженностей.jpg",
+                    "mimeType": "image/jpeg"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Dos_and_Dont_s_when_writing_an_essay___ярлык.lnk",
+                    "fileName": "23-11-2020-Dos_and_Dont_s_when_writing_an_essay___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Sample_and_what_makes_a_paragraph___ярлык.lnk",
+                    "fileName": "23-11-2020-Sample_and_what_makes_a_paragraph___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Structuring_an_Essay.docx",
+                    "fileName": "23-11-2020-Structuring_an_Essay.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/23-11-2020-Useful_Language_for_Writing_an_Essay___ярлык.lnk",
+                    "fileName": "23-11-2020-Useful_Language_for_Writing_an_Essay___ярлык.lnk",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/29-04-2020-ИБМ3курс___Темы_для_эссе_презентации.pdf",
+                    "fileName": "29-04-2020-ИБМ3курс___Темы_для_эссе_презентации.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/30837d44-7b31-11e6-a769-005056960017/30837d44-7b31-11e6-a769-005056960017",
+                    "fileName": "30837d44-7b31-11e6-a769-005056960017",
+                    "mimeType": null
+                }
+            ]
+        },
+        {
+            "uuid": "4b251290-7819-11eb-a91f-005056960017",
+            "title": "Компьютерная графика",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-gl1_1.doc",
+                    "fileName": "08-02-2023-gl1_1.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-gl2_5.doc",
+                    "fileName": "08-02-2023-gl2_5.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-Задание_на_вторую_лабораторную_работу.docx",
+                    "fileName": "08-02-2023-Задание_на_вторую_лабораторную_работу.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-Задание_на_первую_лабораторную_работу.docx",
+                    "fileName": "08-02-2023-Задание_на_первую_лабораторную_работу.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-Работа_1.doc",
+                    "fileName": "08-02-2023-Работа_1.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/08-02-2023-Работа_2.doc",
+                    "fileName": "08-02-2023-Работа_2.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N10_задание_.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N10_задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N4_задание_.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N4_задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N6_задание_.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N6_задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N7.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N7.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N8__задание_.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N8__задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N9_задание_.docx",
+                    "fileName": "11-04-2023-ЛАБОРАТОРНАЯ_РАБОТА_N9_задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/27-03-2023-Задание_на_третью_лабораторную_работу.docx",
+                    "fileName": "27-03-2023-Задание_на_третью_лабораторную_работу.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/4b251290-7819-11eb-a91f-005056960017/30-03-2025-30_03_2025_ЛАБОРАТОРНАЯ_РАБОТА_N5_задание_.docx",
+                    "fileName": "30-03-2025-30_03_2025_ЛАБОРАТОРНАЯ_РАБОТА_N5_задание_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        },
+        {
+            "uuid": "f85393d4-bd19-11e6-95ee-005056960017",
+            "title": "Машинно-зависимые языки программирования",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/02-03-2025-lab3.pdf",
+                    "fileName": "02-03-2025-lab3.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/02-03-2025-lab3_samples.zip",
+                    "fileName": "02-03-2025-lab3_samples.zip",
+                    "mimeType": "application/zip"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/03-06-2025-questions.pdf",
+                    "fileName": "03-06-2025-questions.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/07-02-2024-lab0.pdf",
+                    "fileName": "07-02-2024-lab0.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/07-04-2025-lab7.pdf",
+                    "fileName": "07-04-2025-lab7.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/08-02-2023-DOSBox_0.74_3.zip",
+                    "fileName": "08-02-2023-DOSBox_0.74_3.zip",
+                    "mimeType": "application/zip"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/10-05-2025-lab11.pdf",
+                    "fileName": "10-05-2025-lab11.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/10-05-2025-lection7.pdf",
+                    "fileName": "10-05-2025-lection7.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/13-02-2023-ASM1_AFD.pdf",
+                    "fileName": "13-02-2023-ASM1_AFD.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/13-02-2023-masm_and_afd.zip",
+                    "fileName": "13-02-2023-masm_and_afd.zip",
+                    "mimeType": "application/zip"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/13-04-2025-lab8.pdf",
+                    "fileName": "13-04-2025-lab8.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/13-04-2025-lection5.pdf",
+                    "fileName": "13-04-2025-lection5.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/14-02-2025-lab1.pdf",
+                    "fileName": "14-02-2025-lab1.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/16-03-2025-lab4.pdf",
+                    "fileName": "16-03-2025-lab4.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/16-03-2025-lection3.pdf",
+                    "fileName": "16-03-2025-lection3.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/19-02-2025-lection1.pdf",
+                    "fileName": "19-02-2025-lection1.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/20-05-2025-lab12.pdf",
+                    "fileName": "20-05-2025-lab12.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/21-04-2025-lab9.pdf",
+                    "fileName": "21-04-2025-lab9.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/21-05-2025-lection8.pdf",
+                    "fileName": "21-05-2025-lection8.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/22-02-2025-lab2.pdf",
+                    "fileName": "22-02-2025-lab2.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/22-03-2025-lab5.pdf",
+                    "fileName": "22-03-2025-lab5.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/23-04-2025-lection6.pdf",
+                    "fileName": "23-04-2025-lection6.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/26-02-2025-lection2.pdf",
+                    "fileName": "26-02-2025-lection2.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/26-03-2025-lection4.pdf",
+                    "fileName": "26-03-2025-lection4.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/29-03-2025-lab6.pdf",
+                    "fileName": "29-03-2025-lab6.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/f85393d4-bd19-11e6-95ee-005056960017/29-04-2025-lab10.pdf",
+                    "fileName": "29-04-2025-lab10.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        },
+        {
+            "uuid": "fee3b602-bd19-11e6-81c3-005056960017",
+            "title": "Объектно-ориентированное программирование",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/02-06-2020-Лекция_11.docx",
+                    "fileName": "02-06-2020-Лекция_11.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/07-06-2020-Вопросы_для_экзамена_по_ООП__часть_1_.docx",
+                    "fileName": "07-06-2020-Вопросы_для_экзамена_по_ООП__часть_1_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/07-06-2020-Вопросы_для_экзамена_по_ООП__часть_2_.docx",
+                    "fileName": "07-06-2020-Вопросы_для_экзамена_по_ООП__часть_2_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/08-04-2020-Лекция-6.docx",
+                    "fileName": "08-04-2020-Лекция-6.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/08-04-2020-Примеры-к-лекции-6.docx",
+                    "fileName": "08-04-2020-Примеры-к-лекции-6.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/08-06-2020-Экзаменационный_лист.pdf",
+                    "fileName": "08-06-2020-Экзаменационный_лист.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/15-04-2020-Лекция-7.docx",
+                    "fileName": "15-04-2020-Лекция-7.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/15-04-2020-Примеры-к-лекции-7.docx",
+                    "fileName": "15-04-2020-Примеры-к-лекции-7.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/17-05-2020-Примеры_к_лекции_9__Порождающие_паттерны_и_шаблоны_.docx",
+                    "fileName": "17-05-2020-Примеры_к_лекции_9__Порождающие_паттерны_и_шаблоны_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/17-05-2020-Примеры_к_лекции_9__Структурные_паттерны_.docx",
+                    "fileName": "17-05-2020-Примеры_к_лекции_9__Структурные_паттерны_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/17-05-2020-Примеры_к_лекции_9__Шаблоны_и_паттерны_поведения_.docx",
+                    "fileName": "17-05-2020-Примеры_к_лекции_9__Шаблоны_и_паттерны_поведения_.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/19-05-2020-Лекция_9.docx",
+                    "fileName": "19-05-2020-Лекция_9.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/24-04-2020-Примеры_к_лекции_8.docx",
+                    "fileName": "24-04-2020-Примеры_к_лекции_8.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/24-05-2020-Примеры_к_лекции_10.docx",
+                    "fileName": "24-05-2020-Примеры_к_лекции_10.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/26-05-2020-Лекция_10.docx",
+                    "fileName": "26-05-2020-Лекция_10.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/fee3b602-bd19-11e6-81c3-005056960017/28-04-2020-Лекция_8.docx",
+                    "fileName": "28-04-2020-Лекция_8.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        },
+        {
+            "uuid": "63bd0194-8478-11e6-b723-005056960017",
+            "title": "Политология",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/04-03-2022-Гришнова_Е.Е._Политология_Л.2_.ppt",
+                    "fileName": "04-03-2022-Гришнова_Е.Е._Политология_Л.2_.ppt",
+                    "mimeType": "application/vnd.ms-powerpoint"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/04-03-2022-Политология_Л.2_Бак.___копия.ppt",
+                    "fileName": "04-03-2022-Политология_Л.2_Бак.___копия.ppt",
+                    "mimeType": "application/vnd.ms-powerpoint"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/08-10-2020-Лекция_Политическая_власть_в_управлением_обществом.pptx",
+                    "fileName": "08-10-2020-Лекция_Политическая_власть_в_управлением_обществом.pptx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/10-04-2020-Гришнова-Е.Е.-Политология-Лекция-4.ppt",
+                    "fileName": "10-04-2020-Гришнова-Е.Е.-Политология-Лекция-4.ppt",
+                    "mimeType": "application/vnd.ms-powerpoint"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/10-05-2020-Ламинина_О.Г._Политические_партии_и_общественные_движения.pptx",
+                    "fileName": "10-05-2020-Ламинина_О.Г._Политические_партии_и_общественные_движения.pptx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/10-05-2020-Ламинина_О.Г._Политические_элиты_и_политическое_лидерство.pptx",
+                    "fileName": "10-05-2020-Ламинина_О.Г._Политические_элиты_и_политическое_лидерство.pptx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/11-01-2023-Расписание_приёма_зач_и_экз_2022_23_уч.г._1_сем.docx",
+                    "fileName": "11-01-2023-Расписание_приёма_зач_и_экз_2022_23_уч.г._1_сем.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/13-11-2021-11_11_21_Бочарников_Лекция_5_Политические_партии_и_общественные_движения.pptx",
+                    "fileName": "13-11-2021-11_11_21_Бочарников_Лекция_5_Политические_партии_и_общественные_движения.pptx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/13-11-2021-11_11_21_Бочарников_План_семинар___9.docx",
+                    "fileName": "13-11-2021-11_11_21_Бочарников_План_семинар___9.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/13-11-2021-18_11_21_Бочарников_План_семинара____10.docx",
+                    "fileName": "13-11-2021-18_11_21_Бочарников_План_семинара____10.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/14-01-2021-ГРАФИК_ПРИЕМА_ЗАДОЛЖЕННОСТЕЙ_ПРЕПОДАВАТЕЛЯМИ_КАФ._СГН_3.docx",
+                    "fileName": "14-01-2021-ГРАФИК_ПРИЕМА_ЗАДОЛЖЕННОСТЕЙ_ПРЕПОДАВАТЕЛЯМИ_КАФ._СГН_3.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/16-02-2022-Обложка_ДЗ.docx",
+                    "fileName": "16-02-2022-Обложка_ДЗ.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/16-02-2022-Политология._Литература.docx",
+                    "fileName": "16-02-2022-Политология._Литература.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/16-02-2022-Щеглов._Лекция_1.docx",
+                    "fileName": "16-02-2022-Щеглов._Лекция_1.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/16-02-2022-Щеглов._Семинар_1.docx",
+                    "fileName": "16-02-2022-Щеглов._Семинар_1.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2021-Лекции_Политогогия_2021.doc",
+                    "fileName": "17-02-2021-Лекции_Политогогия_2021.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2022-Галаганова_С.Г._Вопросы_для_самостоятельной_работы_по_теме_ГЛОБАЛЬНЫЙ_КОНТЕКСТ_СОВРЕМЕННОЙ_ПОЛИТИКИ.docx",
+                    "fileName": "17-02-2022-Галаганова_С.Г._Вопросы_для_самостоятельной_работы_по_теме_ГЛОБАЛЬНЫЙ_КОНТЕКСТ_СОВРЕМЕННОЙ_ПОЛИТИКИ.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2022-Галаганова_С.Г._Контрольные_вопросы_по_теме_Глобальный_контекст_современной_политики.docx",
+                    "fileName": "17-02-2022-Галаганова_С.Г._Контрольные_вопросы_по_теме_Глобальный_контекст_современной_политики.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2022-Галаганова_С.Г._Легитимация_власти._Вопросы_для_обсуждения_на_семинаре..docx",
+                    "fileName": "17-02-2022-Галаганова_С.Г._Легитимация_власти._Вопросы_для_обсуждения_на_семинаре..docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2022-Галаганова_С.Г._Некоторые_источники_по_теме_Глобальный_контекст_современной_политики..docx",
+                    "fileName": "17-02-2022-Галаганова_С.Г._Некоторые_источники_по_теме_Глобальный_контекст_современной_политики..docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/17-02-2022-Галаганова_С.Г._Некоторые_теоретические_источники_современной_политологии.__Темы_докладов_..docx",
+                    "fileName": "17-02-2022-Галаганова_С.Г._Некоторые_теоретические_источники_современной_политологии.__Темы_докладов_..docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/18-02-2021-Лекции_Политогогия_2021.doc",
+                    "fileName": "18-02-2021-Лекции_Политогогия_2021.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/19-02-2024-Карась_Р.А._19.02.24_Политология_семинары_и_лекции.docx",
+                    "fileName": "19-02-2024-Карась_Р.А._19.02.24_Политология_семинары_и_лекции.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-02-2022-Литература_по_политологии__по_РПД.docx",
+                    "fileName": "22-02-2022-Литература_по_политологии__по_РПД.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-02-2022-Учебник_Политогогия___2019.doc",
+                    "fileName": "22-02-2022-Учебник_Политогогия___2019.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Uchebnik_po_politologii.doc",
+                    "fileName": "22-03-2020-Uchebnik_po_politologii.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Образец оформления статьи на студеческую конференцию.doc",
+                    "fileName": "22-03-2020-Образец оформления статьи на студеческую конференцию.doc",
+                    "mimeType": "application/msword"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Политология электронные ссылки.docx",
+                    "fileName": "22-03-2020-Политология электронные ссылки.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Правила по Презентациям.ppt",
+                    "fileName": "22-03-2020-Правила по Презентациям.ppt",
+                    "mimeType": "application/vnd.ms-powerpoint"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Пусько В.С. (ред.) - Политология. Краткий словарь основных терминов и понятий - 2010.pdf",
+                    "fileName": "22-03-2020-Пусько В.С. (ред.) - Политология. Краткий словарь основных терминов и понятий - 2010.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/22-03-2020-Семинар  7 Личность в политике Политическое лидерство (pdf.io).pdf",
+                    "fileName": "22-03-2020-Семинар  7 Личность в политике Политическое лидерство (pdf.io).pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/23-11-2021-Шевчун_Семинар_8_научно_техн_интелл_в_совр_политике.docx",
+                    "fileName": "23-11-2021-Шевчун_Семинар_8_научно_техн_интелл_в_совр_политике.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/23-11-2021-Шевчун_Семинар_9_Многопартийность_в_России.docx",
+                    "fileName": "23-11-2021-Шевчун_Семинар_9_Многопартийность_в_России.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/25-01-2023-Расписание_приёма_зач_и_экз_2022_23_уч.г._1_сем_продолжение.docx",
+                    "fileName": "25-01-2023-Расписание_приёма_зач_и_экз_2022_23_уч.г._1_сем_продолжение.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/26-04-2020-Галаганова_С.Г._Вопросы_для_обсуждения_и_самостоятельной_работы_по_теме_НЕГОСУДАРСТВЕННЫЕ_СУБЪЕКТЫ_ПОЛИТИКИ.docx",
+                    "fileName": "26-04-2020-Галаганова_С.Г._Вопросы_для_обсуждения_и_самостоятельной_работы_по_теме_НЕГОСУДАРСТВЕННЫЕ_СУБЪЕКТЫ_ПОЛИТИКИ.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/26-11-2020-Семинар_12_Политическая_культура_и_политическая_социализация.docx",
+                    "fileName": "26-11-2020-Семинар_12_Политическая_культура_и_политическая_социализация.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/26-11-2020-Семинар_12_Политические_конфликты.docx",
+                    "fileName": "26-11-2020-Семинар_12_Политические_конфликты.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/27-02-2022-Гришнова_Лекция_1_по_политологии_22_г..ppt",
+                    "fileName": "27-02-2022-Гришнова_Лекция_1_по_политологии_22_г..ppt",
+                    "mimeType": "application/vnd.ms-powerpoint"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/27-03-2020-Лекция 9 Шевчун.docx",
+                    "fileName": "27-03-2020-Лекция 9 Шевчун.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/28-03-2020-Дом зад. полит. 2019.jpg",
+                    "fileName": "28-03-2020-Дом зад. полит. 2019.jpg",
+                    "mimeType": "image/jpeg"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/63bd0194-8478-11e6-b723-005056960017/31-03-2020-Семинар 7 Политические режимы Катков О.Н..pptx",
+                    "fileName": "31-03-2020-Семинар 7 Политические режимы Катков О.Н..pptx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                }
+            ]
+        },
+        {
+            "uuid": "2e099e02-d682-11e6-b3e2-005056960017",
+            "title": "Социология",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/2e099e02-d682-11e6-b3e2-005056960017/01-02-2021-Записанные_лекции_по_социологии.docx",
+                    "fileName": "01-02-2021-Записанные_лекции_по_социологии.docx",
+                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/2e099e02-d682-11e6-b3e2-005056960017/16-02-2023-расписание_приема_задолженностей_СГН2_2_семестр_2022_23",
+                    "fileName": "16-02-2023-расписание_приема_задолженностей_СГН2_2_семестр_2022_23",
+                    "mimeType": null
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/2e099e02-d682-11e6-b3e2-005056960017/28-02-2021-семинары_по_социологии.doc",
+                    "fileName": "28-02-2021-семинары_по_социологии.doc",
+                    "mimeType": "application/msword"
+                }
+            ]
+        },
+        {
+            "uuid": "fd8d487e-8114-11e9-addd-005056960017",
+            "title": "Технологическая практика",
+            "materials": []
+        },
+        {
+            "uuid": "5e82060e-fac3-11eb-941c-005056960017",
+            "title": "Элективный курс по физической культуре и спорту",
+            "materials": [
+                {
+                    "link": "https://lks.bmstu.ru/eufs/5e82060e-fac3-11eb-941c-005056960017/27-05-2025-Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "fileName": "27-05-2025-Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "mimeType": "application/pdf"
+                },
+                {
+                    "link": "https://lks.bmstu.ru/eufs/5e82060e-fac3-11eb-941c-005056960017/27-05-2025-Прием_нормативов_в_ВУЦ___Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "fileName": "27-05-2025-Прием_нормативов_в_ВУЦ___Кафедра_ФВ___МГТУ_им_Н._Э._Баумана.pdf",
+                    "mimeType": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "date": "2025-06-22T13:34:47.299+03:00"
+}
